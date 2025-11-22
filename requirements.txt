@@ -1,2 +1,6 @@
 requests
-dataclasses
+pyyaml
+argparse
+tqdm
+html5lib
+beautifulsoup4
